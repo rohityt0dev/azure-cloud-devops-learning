@@ -1,4 +1,4 @@
-# ☁️ 01 - Azure Fundamentals
+# ☁️  Azure Fundamentals
 
 This section covers the fundamental concepts of **Microsoft Azure** and **Cloud Computing**.
 
@@ -62,8 +62,6 @@ Azure Region
   +-- Availability Zone 3
 ```
 
-📄 Detailed notes: `Azure-Regions.md`
-
 ---
 
 # 🏢 2. Azure Resource Groups
@@ -102,8 +100,6 @@ Resource Group
 * Apply access control
 * Simplify resource lifecycle management
 * Improve administration
-
-📄 Detailed notes: `Resource-Groups.md`
 
 ---
 
@@ -149,8 +145,6 @@ Subscriptions help organizations manage:
 * Cost management
 * Administrative boundaries
 
-📄 Detailed notes: `Azure-Subscriptions.md`
-
 ---
 
 # 🖥️ 4. Azure Portal
@@ -182,8 +176,6 @@ Azure Portal
 ```
 
 The portal provides a visual interface that is especially useful for beginners and administrators.
-
-📄 Detailed notes: `Azure-Portal.md`
 
 ---
 
@@ -533,65 +525,6 @@ Monitor Resource
      v
 Manage / Scale / Delete
 ```
-
----
-
-# 🧑‍💻 Practical Learning
-
-As part of this section, practice the following tasks in the Azure Portal:
-
-### Task 1 — Explore Azure Regions
-
-* Open the Azure Portal
-* Explore available regions
-* Understand region locations
-* Learn why region selection matters
-
-### Task 2 — Create a Resource Group
-
-Create a resource group and explore:
-
-* Resource organization
-* Access control
-* Resource lifecycle
-
-### Task 3 — Explore Subscriptions
-
-Review:
-
-* Subscription information
-* Resource usage
-* Cost management
-* Access control
-
-### Task 4 — Explore Azure Portal
-
-Practice:
-
-* Navigating the portal
-* Searching for services
-* Creating resources
-* Viewing resource configuration
-* Monitoring resources
-
----
-
-# 📂 Directory Structure
-
-```text
-01-Azure-Fundamentals/
-│
-├── README.md
-│
-├── Azure-Regions.md
-│
-├── Resource-Groups.md
-│
-├── Azure-Subscriptions.md
-│
-└── Azure-Portal.md
-```
-
 ---
 
 # 📚 Key Takeaways
@@ -626,15 +559,5 @@ After completing **Azure Fundamentals**, you should be able to:
 * Explain high availability, reliability, and disaster recovery concepts.
 
 ---
-
-## 🚀 Next Step
-
-After completing Azure Fundamentals, continue with the next Azure topics and begin deploying real Azure resources using the **Azure Portal, Azure CLI, and Infrastructure as Code**.
-
----
-
-### 👨‍💻 Author
-
-**Rohit Tambadkar**
 
 🌱 Aspiring DevOps Engineer | ☁️ Cloud Enthusiast | 🚀 Continuous Learner
